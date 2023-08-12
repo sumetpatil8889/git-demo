@@ -1,2 +1,11 @@
 Hi this file was created from Github
 don't create files on Github, use your local
+
+#cd git-demo
+#git clone https://github.com/sumetpatil8889/git-demo.git
+#git add .\sumet.txt
+#git commit -m .\sumet.txt
+#git status
+#git pull origin main
+#git push origin main
+#ls
