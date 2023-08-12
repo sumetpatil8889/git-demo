@@ -1,2 +1,2 @@
 Hi this file was created from Github
-don't create files on Github, your local
+don't create files on Github, use your local
